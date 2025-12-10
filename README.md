@@ -22,3 +22,4 @@ Nexus Monitor is a real-time PC dashboard and AI assistant that turns your Andro
 ## 4. Troubleshooting
 - **Firewall:** If the app stays on "0", open Windows Firewall settings and allow `python.exe` through both Private and Public networks.
 - **Network:** Ensure your Phone and PC are connected to the exact same WiFi router/band.
+"# Nexus-Monitor-" 
