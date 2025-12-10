@@ -1,4 +1,4 @@
-# Nexus Monitor v1.0
+# Nexus Monitor v2.0
 
 Nexus Monitor is a real-time PC dashboard and AI assistant that turns your Android phone into a secondary status display.
 
